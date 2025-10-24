@@ -2,7 +2,7 @@
 
 💻 Datatechnician student (EUC Syd, Sønderborg - Denmark) passionate about programming and combining hardware with software to create practical solutions.
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” - Cory House
 
 ---
 
